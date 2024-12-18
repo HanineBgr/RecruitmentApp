@@ -1,16 +1,16 @@
-# app_stage1
+# 📖 Overview 
 
-A new Flutter project.
+This Flutter project is designed to simplify the recruitment process for companies and job seekers. It offers a user-friendly interface for browsing job listings, submitting applications, and managing interviews.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- **Job Listings** : Browse available job opportunities and filter by categories.
+- **Job Application** : Submit resumes and cover letters directly through the app.
+- **Applicant Profile Management** : Create and manage personal profiles, including work experience and skills.
+- **Interview Scheduling** : Schedule and manage interviews with recruiters.
+- **Push Notifications** : Receive notifications about job application statuses and upcoming interviews.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Tech Stack 
+- **Framework** : Springboot (Backend), Flutter (Frontend) 
+- **Language** : Java (Backend), Dart (Frontend)
+- **Database** : MySQL
